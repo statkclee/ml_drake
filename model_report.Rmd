@@ -1,0 +1,18 @@
+---
+title: "Predictive Model Report"
+author: "Kwangchun Lee (Tidyverse Korea)"
+date: "2018-10-08"
+output: html_document
+---
+
+# Predictive Model Performance [^glm-reference] {#predictive-model}
+
+[^glm-reference]: [GURU99, "Generalized Linear Model (GLM) in R with Example"](https://www.guru99.com/r-generalized-linear-model.html)
+
+```{r content}
+library(drake)
+# loadd(fit)
+# print(fit)
+
+readd(pm_performance_g)
+```
