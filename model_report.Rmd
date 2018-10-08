@@ -9,6 +9,8 @@ output: html_document
 
 [^glm-reference]: [GURU99, "Generalized Linear Model (GLM) in R with Example"](https://www.guru99.com/r-generalized-linear-model.html)
 
+## GBM {#predictive-model-gbm}
+
 ```{r content}
 library(drake)
 # loadd(fit)
